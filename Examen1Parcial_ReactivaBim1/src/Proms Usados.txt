@@ -1,0 +1,6 @@
+P1
+Con este código como base, resúmeme una solución funcional en Scala donde exista una sola función que reciba la lista de precios y una función de ajuste (impuesto, descuento o estrategia comercial), y retorne una nueva lista con los precios modificados
+P2
+Con este código base, dame una versión en Scala funcional, resumida y bien presentada, equivalente al método Java que calcula la desviación estándar usando los logaritmos de los datos
+P3
+Transforma esta función anónima en una función con nombre, manteniendo la misma lógica pero en formato resumido
